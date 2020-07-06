@@ -1,1 +1,1 @@
-# Branching-process-descriptions-of-information-cascades-on-Twitter
+# Branching process descriptions of information cascades on Twitter
