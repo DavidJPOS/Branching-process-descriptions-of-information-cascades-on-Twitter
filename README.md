@@ -1,6 +1,6 @@
 # Branching process descriptions of information cascades on Twitter
 
-The files in this repo were used in the analysis of _Branching process descriptions of information cascades on Twitter_. An arXiv preprint can be found [here]().
+The files in this repo were used in the analysis for the paper _Branching process descriptions of information cascades on Twitter_. An arXiv preprint can be found [here]().
 
 ## File descriptions
 
